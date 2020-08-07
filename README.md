@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**tmamedbekov/tmamedbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place where I opensource stuff and break things 🤣
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on something very cool
+- 🌱 I’m currently learning JAM Stack, AI and ML
+- 💬 Ask me about anything web development related
+- 📫 How to reach me: [@tmamedbekov](https://twitter.com/tmamedbekov)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📕 Latest Blog Posts on Sitecore:
+
+<!-- BLOG-POST-LIST:START -->
+- [Sitecore JSS and Sitecore Docker](https://mysitecore.blog/2020/08/02/sitecore-jss-with-docker/)
+- [Sitecore JSS – Secure your Disconnected Mode](https://mysitecore.blog/2020/05/26/sitecore-jss-secure-your-disconnected-mode-with-https/)
+- [Sitecore JSS + Google Firebase](https://mysitecore.blog/2020/05/20/sitecore-jss-google-firebase/)
+<!-- BLOG-POST-LIST:END -->
