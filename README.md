@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-This is the place where I opensource stuff and break things 🤣
+This is the place where I open source stuff and break things 🤣
 
-- 🔭 I’m currently focus on blazing fast personalized sites
-- 🌱 web 3.0 - Distributed web
+- 🔭 Check out the visual workspace that empowers digital teams to quickly blend content, data, and technology from anywhere.
 - 💬 Ask me about anything web development related
 - 📫 How to reach me: [@tmamedbekov](https://twitter.com/tmamedbekov)
 
